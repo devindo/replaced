@@ -1,0 +1,19 @@
+{
+  "author": "devini",
+  "name": "replaced",
+  "description": "Node commandline application to replace selected text in a file.",
+  "version": "0.1.4",
+  "repository": {
+    "url": ""
+  },
+  "main": "./lib/main",
+  "bin": {
+    "replaced": "./bin/replaced"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
